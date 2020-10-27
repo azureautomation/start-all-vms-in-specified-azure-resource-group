@@ -1,0 +1,20 @@
+{
+    "Author": "Pete Zerger - MVP",
+    "ContentSize": 2746,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-all-vms-in-specified-azure-resource-group/master/Start-AzureVMs.ps1",
+    "DownloadCount": 4574,
+    "Id": "Start-All-VMs-in-Specified-2b811205",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 31,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-5-14T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This sample runbooks starts all of the virtual machines in the specified Azure Resource Group. For more information about how this runbook authenticates to your Azure subscription, see the Microsoft documentation here: http://aka.ms/fxu3mn.",
+    "Title": "Start All VMs in Specified Azure Resource Group",
+    "UpdatedDate": "2019-7-20T00:00:00",
+    "Url": "https://github.com/azureautomation/start-all-vms-in-specified-azure-resource-group",
+    "UserTags": "Tutorial, VM Lifecycle Management"
+}
